@@ -4,7 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A hybrid neural network model integrating Liquid Neural Networks (LNN) and Spiking Neural Networks (SNN) for robust fault diagnosis through heterogeneous fusion of multimodal signals (e.g., vibration, acoustic).
+A hybrid neural network model integrating Liquid Neural Networks (LNN) and Spiking Neural Networks (SNN) for robust fault diagnosis through heterogeneous fusion of multimodal signals (e.g., vibration, SP image).
 
 ## 📦 Repository Structure
 LNN_SNN/
