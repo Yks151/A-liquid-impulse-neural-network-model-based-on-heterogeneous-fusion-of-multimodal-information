@@ -37,6 +37,5 @@ pip install -r requirements.txt
 @article{yourpaper2023,
   title={A liquid-impulse neural network model based on heterogeneous fusion of multimodal information for interpretable rotating machinery fault diagnosis},
   author={Keshun You, Yingkui Gu, Haidong Shao and Yajun Wange},
-  journal={IEEE},
   year={2025}
 }
