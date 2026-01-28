@@ -34,8 +34,13 @@ pip install -r requirements.txt
 
 📚 Citation
 
-@article{yourpaper2023,
-  title={A liquid-impulse neural network model based on heterogeneous fusion of multimodal information for interpretable rotating machinery fault diagnosis},
-  author={Keshun You, Yingkui Gu, Haidong Shao and Yajun Wange},
-  year={2025}
-}
+@article{YOU2026113923,
+title = {A liquid-impulse neural network model based on heterogeneous fusion of multimodal information for interpretable rotating machinery fault diagnosis},
+journal = {Mechanical Systems and Signal Processing},
+volume = {246},
+pages = {113923},
+year = {2026},
+issn = {0888-3270},
+doi = {https://doi.org/10.1016/j.ymssp.2026.113923},
+url = {https://www.sciencedirect.com/science/article/pii/S0888327026000804},
+author = {Keshun You and Yingkui Gu and Haidong Shao and Yajun Wang},
